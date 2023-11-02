@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wakeupjq
-- 👀 I’m interested in IC design and FPGA application
+- 👀 I’m interested in IC, majoring in SoC design. 
 
 <!---
 wakeupjq/wakeupjq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
